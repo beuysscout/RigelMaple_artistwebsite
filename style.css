@@ -1,0 +1,58 @@
+body{
+background-color:  rgba(255, 249, 229, 1);
+}
+
+img{
+  height: 50%;
+  width: 50%;
+}
+
+.title-cont{
+  height: 660px;
+  width: 100%;
+}
+
+.title-box{
+  color: rgba(195, 53, 34, 1);
+  height: 200px;
+  width: 100%;
+  text-align: center;
+  margin-top: 350px;
+  font-family: 'Cormorant', serif;
+
+}
+.content-cont{
+  width: 100%;
+  height: 100%;
+}
+
+
+.letters{
+  color: rgba(195, 53, 34, 1);
+  font-size: 700px;
+  width: 100%;
+  height: 100%;
+  font-family: 'Cormorant', serif;
+  margin-left: 10px;
+
+
+}
+
+
+.contact-cont{
+  height: 50px;
+  width: 100%;
+}
+
+.contact-box{
+  color: rgba(195, 53, 34, 1);
+  height: 50px;
+  width: 100%;
+  text-align: center;
+  font-family: 'Cormorant', serif;
+
+
+}
+
+
+
