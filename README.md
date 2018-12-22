@@ -1,4 +1,1 @@
-# Ratcatcher
-# portfolio
-# hadesgallery
-# portfolio
+#Simple MVP for artist website 
